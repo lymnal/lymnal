@@ -3,7 +3,7 @@
   <img alt="Ethan Sam — AI Engineer. LLM agents and automation systems that reach production." src="assets/banner-light.svg">
 </picture>
 
-I build LLM agents and internal tooling at **[MiQ](https://www.wearemiq.com/)**, where the measure
+I build LLM agents and internal tooling at **a programmatic advertising company**, where the measure
 of a system is whether people still use it six months later. Before adtech I did security research
 at NYU — CTFs, LLM red-teaming, digital forensics — which is mostly why I now spend my time trying
 to falsify my own systems rather than demo them.
@@ -42,12 +42,12 @@ against what actually settled.</sub>
 
 ---
 
-### At MiQ
+### At work
 
 - **Daily Briefing Buddy** — an agent that briefs account managers each morning. 93% adoption across
   the US business and 46K+ conversations; the most-used internal AI tool the company has shipped.
 - **Account Hub** — servicing workspace for account managers, now the single most-viewed internal app
-  at MiQ (~1,600 views/month). No failed writes to date.
+  internally (~1,600 views/month). No failed writes to date.
 - **Ad trafficking automation** — took a manual campaign-setup step off the critical path for ad ops.
 
 ---
