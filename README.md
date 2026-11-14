@@ -15,7 +15,7 @@ I co-built the workspace U.S. account managers use to check campaign pacing, spo
 
 ## A few things I’ve built
 
-**[SwarmTrace](https://github.com/lymnal/swarmtrace)** · When an AI agent repeats a claim, can you tell whether it checked first? On our three-person hackathon team, I built the workbench that traces corrections through the original chat, tool output, and screenshots.
+**[SwarmTrace](https://github.com/lymnal/swarmtrace-recruiter)** · When an AI agent repeats a claim, can you tell whether it checked first? On our three-person hackathon team, I built the workbench that traces corrections through the original chat, tool output, and screenshots.
 
 **[NeuroScope](https://github.com/lymnal/neuroscope)** · A browser workbench for looking inside GPT-2. Follow its attention head by head and see what changes when you steer it. [Try it →](https://neuroscope-interp.netlify.app)
 
